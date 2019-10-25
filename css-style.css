@@ -1,0 +1,17 @@
+/*Global*/
+*, *::before, *::after {
+    box-sizing: border-box;
+    }
+body {
+    margin: 0;
+    color: #192a56;
+}
+.container {
+    padding: 30px;
+    margin: 0 auto;
+    text-align: center;
+}
+/*Header*/
+header {
+    background: #dcdde1; 
+}
