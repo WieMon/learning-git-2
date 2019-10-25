@@ -15,3 +15,9 @@ body {
 header {
     background: #dcdde1; 
 }
+/*Main text*/
+.main-text {
+    background: #f5f6fa;
+    font-size: 20px;
+    line-height: 1.5;
+}
